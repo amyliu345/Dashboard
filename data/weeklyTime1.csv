@@ -1,0 +1,6 @@
+mode,user,neighbor
+Car,1.8,0.9
+Bus,2.1,2
+Train,2.7,2.2
+Bike,20,0.1
+Walk,4.7,1.2

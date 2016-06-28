@@ -1,0 +1,27 @@
+#activity{
+	padding-left: 30px;
+/*	padding-bottom: 50px;
+*/}
+
+#legend{
+	padding-left: 40px;
+	padding-top: 20px;
+}
+#legend2{
+	padding-left: 40px;
+	padding-top: 20px;
+	padding-bottom: 100px;
+
+}
+
+.activity.axis path,
+
+.activity.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.activity.y.axis path {
+    display: none;
+}
