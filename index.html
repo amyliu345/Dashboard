@@ -8,8 +8,9 @@
   <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
   <script type="text/javascript" src="http://maps.google.com/maps/api/js?libraries=geometry&key=AIzaSyAxqO4C9Jk-i7AsNo25f3lVkTBc4ipsPQU"></script>
-
-  <script type="text/javascript" src="js/map.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="js/toggleMap.js"></script>
+  <script type="text/javascript" src="js/jquery.func_toggle.js"></script>
   <script src="js/d3-timeline.js"></script>
   <script type="text/javascript" src="js/activityTimeline.js"></script>
   <script type="text/javascript" src="js/transitions.js"></script>
@@ -28,54 +29,47 @@
     <div id="map" style="height:500px; width:700px">
     </div>
 
-    <div class = "map button", id="Monday">
+    <div class = "map button", id="0">
     <input class='btn btn-default'
-             name="Monday" 
              type="button" 
              value="Monday" 
-             onclick="updateMultiday(0)" />
+             data-toggle="button"/>
     </div>
-    <div class = "map button", id="Tuesday">
+    <div class = "map button", id="1">
     <input class='btn btn-default'
-             name="Monday" 
              type="button" 
              value="Tuesday" 
-             onclick="updateMultiday(1)" />
+             data-toggle="button"/>
     </div>
-    <div class = "map button", id="Wednesday">
+    <div class = "map button", id="2">
     <input class='btn btn-default'
-             name="Monday" 
              type="button" 
              value="Wednesday" 
-             onclick="updateMultiday(2)" />
+             data-toggle="button"/>
     </div>
-    <div class = "map button", id="Thursday">
+    <div class = "map button", id="3">
     <input class='btn btn-default'
-             name="Monday" 
              type="button" 
              value="Thursday" 
-             onclick="updateMultiday(3)" />
+             data-toggle="button"/>
     </div>
-    <div class = "map button", id="Friday">
+    <div class = "map button", id="4">
     <input class='btn btn-default'
-             name="Monday" 
              type="button" 
              value="Friday" 
-             onclick="updateMultiday(4)" />
+             data-toggle="button"/>
     </div>
-    <div class = "map button", id="Saturday">
+    <div class = "map button", id="5">
     <input class='btn btn-default'
-             name="Monday" 
              type="button" 
              value="Saturday" 
-             onclick="updateMultiday(5)" />
+             data-toggle="button"/>
     </div>
-    <div class = "map button", id="Sunday">
+    <div class = "map button", id="6">
     <input class='btn btn-default'
-             name="Monday" 
              type="button" 
              value="Sunday" 
-             onclick="updateMultiday(6)" />
+             data-toggle="button"/>
     </div>
 
 
