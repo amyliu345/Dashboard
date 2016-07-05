@@ -6,14 +6,6 @@ var activityToColor = {},
         activityToColor[activity[i]] = color[i];
     };
 
-// var activityToEmissionsColor = {},
-//     i,
-//     color = [],
-//     activity = ["Car/Van","Taxi","Bus","Other (mode)","Motorcycle/Scooter","LRT/MRT","Bicycle","Foot"]
-//     for (i = 0; i < activity.length; i++) {
-//         activityToColor[activity[i]] = color[i];
-//     };
-
 var activityToAbbrev = {},
     i,
     activity = ["Home","Work","Work-Related Business","Education","Pick Up/Drop Off","Personal Errand/Task","Meal/Eating Break","Shopping","Social","Recreation","Entertainment","Sports/Exercise","To Accompany Someone","Other Home","Medical/Dental (Self)","Other (stop)","Change Mode/Transfer","Car/Van","Taxi","Bus","Other (mode)","Motorcycle/Scooter","LRT/MRT","Bicycle","Foot"],
@@ -29,6 +21,10 @@ var linesToAdd = []
 var linesToRemove = []
 
 var lines = []
+
+var modeColors = []
+
+var emissionsColors = []
 
 
 var map;
@@ -101,6 +97,9 @@ function newPolyline(dayIndex, dataIndex, data){
     var mode = data[dayIndex].data[dataIndex].Mode
     var color = activityToColor[mode]
 
+    modeColors.push(color);
+    emissionsColors.push(getEmissionsColor(data[dayIndex].data[dataIndex].Emissions));
+
     var decodedPath = google.maps.geometry.encoding.decodePath(path); 
     var decodedLevels = decodeLevels(levels);
     var newLine = new google.maps.Polyline({
@@ -139,7 +138,7 @@ function setBounds(dayLines){
 
 
 function updateMultiday(dayIndex, visibility = True){
-        console.log(visibility);
+        // console.log(visibility);
 
     if (visibility){
         addPolylines(lines[dayIndex]);
@@ -178,9 +177,62 @@ $(window).on('load', function() {
         for (var i = 0; i < data.length; i++){
 
             document.getElementById("" + i).value = data[i].day;
-            console.log(document.getElementById(""+ i).value);
+            // console.log(document.getElementById(""+ i).value);
             
         }
     });
 });
+
+
+function toggleColor(){
+    var elem = document.getElementById("toggleColor");
+
+    if (elem.value=="Color by Emissions") {
+        elem.value = "Color by Mode";
+
+        //Color by Mode
+        var counter=0;
+
+        for (var i = 0; i < lines.length; i++){
+            for (var j = 0; j < lines[i].length; j++){
+                // console.log(counter);
+
+                lines[i][j].setOptions({strokeColor: emissionsColors[counter]});
+                // console.log(lines[i][j]);
+    
+                counter++;
+            }
+        }
+    }
+    //Color By Emissions
+    else {
+        elem.value = "Color by Emissions";
+        var counter=0;
+        for (var i = 0; i < lines.length; i++){
+            for (var j = 0; j < lines[i].length; j++){
+                lines[i][j].setOptions({strokeColor: modeColors[counter]});
+                // console.log(lines[i][j]);
+        
+                counter++;
+            }
+        }
+    };
+}
+
+function getEmissionsColor(e){
+    emissions = +e;
+    if (emissions > 0.08){
+        return "#FF0000"
+    }
+    else if (emissions > 0.05){
+        return "#FFA500"
+    }
+    else if (emissions > 0.02){
+        return "#FFFF00"
+    }
+    else {
+        return "#008000"
+    }
+}
+
 
