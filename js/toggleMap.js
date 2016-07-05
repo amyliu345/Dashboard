@@ -6,6 +6,14 @@ var activityToColor = {},
         activityToColor[activity[i]] = color[i];
     };
 
+// var activityToEmissionsColor = {},
+//     i,
+//     color = [],
+//     activity = ["Car/Van","Taxi","Bus","Other (mode)","Motorcycle/Scooter","LRT/MRT","Bicycle","Foot"]
+//     for (i = 0; i < activity.length; i++) {
+//         activityToColor[activity[i]] = color[i];
+//     };
+
 var activityToAbbrev = {},
     i,
     activity = ["Home","Work","Work-Related Business","Education","Pick Up/Drop Off","Personal Errand/Task","Meal/Eating Break","Shopping","Social","Recreation","Entertainment","Sports/Exercise","To Accompany Someone","Other Home","Medical/Dental (Self)","Other (stop)","Change Mode/Transfer","Car/Van","Taxi","Bus","Other (mode)","Motorcycle/Scooter","LRT/MRT","Bicycle","Foot"],
