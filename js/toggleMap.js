@@ -52,32 +52,11 @@ function initialize() {
 
 
     $.getJSON( "data/gps.json", function(data) {
-        // for (var i = 0; i < data[0].data.length; ++i){
-        //     // console.log(data[0].data[i].EncodedPoints);
-        //     var path = data[0].data[i].EncodedPoints
-        //     var levels = data[0].data[i].Levels
-        //     var mode = data[0].data[i].Mode
-        //     var color = activityToColor[mode]
 
-        //     var decodedPath = google.maps.geometry.encoding.decodePath(path); 
-        //     var decodedLevels = decodeLevels(levels);
-        //     var newLine = new google.maps.Polyline({
-        //         path: decodedPath,
-        //         levels: decodedLevels,
-        //         strokeColor: color,
-        //         strokeOpacity: 1.0,
-        //         strokeWeight: 5,
-        //     });
-        //         newLine.getPath().forEach(function(LatLng) {
-        //         bounds.extend(LatLng);
-        //     });
-        //     linesToAdd.push(newLine);
-        //     // console.log(newLine)
-        // }
-        // addPolyline();
-        // map.fitBounds(bounds);
         data = data;
+
         for (var i = 0; i < data.length; i++){
+
             var dayLines = []
             for (var j = 0; j < data[i].data.length; j++){
                 dayLines.push(newPolyline(i,j,data));
@@ -158,21 +137,6 @@ function setBounds(dayLines){
     map.fitBounds(bounds);
 }
 
-// function toggle(dayIndex){
-
-//     function handler1() {
-//         console.log("handler1")
-//         updateMultiday(dayIndex,false);
-//         $(this).on("click", handler2);
-//     }
-//     function handler2() {
-//         console.log("handler2")
-//         updateMultiday(dayIndex,true);
-//         $(this).on("click", handler1);
-//     }
-
-//     $('#'+dayIndex).on("click", handler1); //YO FIX THIS SHIT THANKS
-// }
 
 function updateMultiday(dayIndex, visibility = True){
         console.log(visibility);
@@ -193,48 +157,7 @@ function updateMultiday(dayIndex, visibility = True){
         }
 
     }
-    // $.getJSON( "data/gps.json", function(data) {
-    //     for (var i = 0; i < data[dayIndex].data.length; ++i){
-    //         // console.log(data[dayIndex].data[i].EncodedPoints);
 
-    //         var path = data[dayIndex].data[i].EncodedPoints
-    //         var levels = data[dayIndex].data[i].Levels
-    //         var mode = data[dayIndex].data[i].Mode
-    //         var color = activityToColor[mode]
-
-    //         var decodedPath = google.maps.geometry.encoding.decodePath(path); 
-    //         var decodedLevels = decodeLevels(levels);
-
-    //         // coordinates.push(decodedPath);
-
-    //         var newLine = new google.maps.Polyline({
-    //             path: decodedPath,
-    //             levels: decodedLevels,
-    //             strokeColor: color,
-    //             strokeOpacity: 1.0,
-    //             strokeWeight: 5,
-    //         });
-    //         newLine.getPath().forEach(function(LatLng) {
-    //             bounds.extend(LatLng);
-    //         });
-
-    //         if (visibility == true){
-    //             console.log(visibility)
-    //             linesToAdd.push(newLine);
-    //         }
-    //         else{
-    //             linesToRemove.push(newLine);
-    //         }
-
-    //     }
-        
-    //     console.log(visibility);
-    //     console.log(linesToAdd);
-    //     console.log(linesToRemove);
-    //     addPolyline();
-    //     removePolyLine();
-    //     map.fitBounds(bounds);
-    // });
 }
 
 function decodeLevels(encodedLevelsString) {
@@ -247,14 +170,17 @@ function decodeLevels(encodedLevelsString) {
     return decodedLevels;
 }
 
+$(window).on('load', function() {
+    $.getJSON( "data/gps.json", function(data) {
 
-// displayLines(){ 
-//     var p; 
-//     for (p = 0; p < polylines.length; p++) {
-//         if(polylines[p].getMap(map)) { 
-//             polylines[p].setMap(null); 
-//         } 
-//         else { polylines[p].setMap(map); 
-//         } 
-//     }
-// } 
+        data = data;
+
+        for (var i = 0; i < data.length; i++){
+
+            document.getElementById("" + i).value = data[i].day;
+            console.log(document.getElementById(""+ i).value);
+            
+        }
+    });
+});
+

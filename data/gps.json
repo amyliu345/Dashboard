@@ -1,114 +1,370 @@
 [{
 	"data": [{
-		"EncodedPoints": "iphGinmyR~CSm@mAgCvAm@`@c@l@?z@]jBAv@CbJHlDqEGu@O{@YmBa@o@i@w@U}CiA_DuA{CyAy@rAy@HkBWwEcAmD[iDa@o@_@oBKw@M}BMw@Iy@CkBg@c@k@}@Wo@YHw@|@}Ah@yD",
-		"Levels": "PED?AEAAB@EG??BA?A?EBD@B?BB@@?@BFB@EABP",
-		"Mode": "Car/Van"
+		"EncodedPoints": "_jyG{_txRC}@{@C}@[qBlAeE_B",
+		"Levels": "PCACDP",
+		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "c_kGgtmyRkAkABlIf@lBxD~Ax@L~@Ev@M|@R~@JtAHbHTdFz@t@`Bz@A`ATv@Fv@Bt@Xv@PjBh@pBd@j@f@bMtCpB`@p@_@?oMb@uDpBwFv@Fp@dDnCnEoEcJ",
-		"Levels": "PDECFB@B@A?BEDAA?C??@BB?GCBCFCCFP",
-		"Mode": "Bicycle"
+		"EncodedPoints": "uwyGkctxRcBeCwC_A",
+		"Levels": "PCP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "q_zGqitxRhDz[|D~UfOxZ`Rf[jErJ",
+		"Levels": "PBFBBP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "sjxG_rpxRpQbkAhSvg@|ClEdGhi@ArA`D|C~f@ldAvRx}@dPvS`p@qBt`@KrRj@`c@xG|G`B~v@dN`H`At`@IjLjBpToAn@]voAkk@ng@wCx@n@pV~IfEv@~ZbVfUtMdN~Kl\\\\m@hViCmPGv@hHtBqAeEiDa@i@_CsC",
+		"Levels": "PFCEBFCFEJDBFBBAEDHE?FHBBECCGCGFFEB?P",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "ircGelexRCsCyHz@",
+		"Levels": "PEP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "g|cG}nexRlAdAWcC|@|@j@{CFgAd@oAlA}G",
+		"Levels": "PDCDAAAP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "kscGoafxRbAd@qAjCNv@wAt@kBBcCuBzEfC{@CWv@l@zAVxC",
+		"Levels": "PDCCECFECDBP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "cwcGonexRrGrE",
+		"Levels": "PP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "oncG{gexRlDKx@s@{RvTu_@qUgFeFof@iYsDmE_IoCwDa@iyEhg@eFBoi@yNiQEqHsIeJPcc@eHic@xCwH^sHlAu@FaVoG{EBiBsBk@u@c@w@[y@iAyEYqCGaAYgAEqAI}@McAEcAcBiNOcAi@gC}AyFy@_Ca@y@}CeFs@y@",
+		"Levels": "PCEGCCCEBHHDDEEDGAC@ICD?G@AC?AA???BA?E@C?AP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "c`zGcktxRW|@fB@y@MlBrDjATpAiASv@z@`@dAz@o@kCdAxA|GpA",
+		"Levels": "PCDCECDC@EDCP",
+		"Mode": "LRT/MRT"
 	}],
 	"day": "Monday"
 }, {
 	"data": [{
-		"EncodedPoints": "uohGgomyRfBEz@`DT`Dp@f@M~C",
-		"Levels": "PDBCCP",
+		"EncodedPoints": "_jyG{_txR}LpUbWfq@te@~mBfFxOtG?p@fCrBjFxw@tiCzAjAxErMhBzSpDrQ`@~AhArFfXvRfBd@pCMdAM`C_@hAMrCa@zNyAxCa@fAGhBUbAIz@@pAMhAG|Ec@xCKdAB~E\\\\nEt@tH`BdAN`ATnC^bATlC^lIvApEz@p@Pv@?hCZnGfDtDdB~v@lH",
+		"Levels": "PGECEEAADCEC@@JBF?A??A@??C@A??A@GB@A?????@?BAD@EP",
 		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "whhGa_myRs@eAUaG]gAPmD{CtA",
-		"Levels": "PCBCEP",
+		"EncodedPoints": "spmG{qexRni@jCzYkAxK}GfBqAjYaZvAmBXo@lAi@`A[nAOfAExEIhADdAIxEE`ACdAKdA@dAEhCSvEIrCQ",
+		"Levels": "PDG@DB@BGA?B@@@B?@@?@@P",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "qihG_agxRtLp@ji@vI~BdBhRvNp\\\\pUnKrGbc@eCtAq@}DrANiBmCkBJqASeCaAyDwE~H",
+		"Levels": "PCF?BBGCGEDCABFP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "g|cG}nexR_LWi@u@eAs@OeBwAd@yGwDT~@rBU",
+		"Levels": "PEACDDECP",
 		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "iphGinmyRfBV`@i@qAkBiExK@rOgBWwo@lDw]jl@yDdKoNxb@aCbt@}LlAcAzXxAbBnApBjAtB`HbNdBjCr@z@vBbB|@h@`Ab@pCdAfAXzLvCdQxD`N`DlAPzAd@bD~@vFpBbKhEdF|BrJrEbLzEzGxCyFgCxFfChvOlkGcB|@GfASbA[bA_@z@mCzEmAlCsA`CwBrDu@hA_@bAi@nCIfA?fADbALdAT`AZz@\\|@h@z@\\dA`@bAZfANjA@jAEjAm@tHCjAAjA@vC\\v^LvG?`EPzLBpFIdAg@nBk@vAe@t@i@p@q@n@i@t@o@n@kJfL_AnAwBjD}@nBWt@o@dBuAzE_@~@I~@Zl@v@b@tFt@hATvBT~@Pp@dBiCvN_Cw@s@Qw@Cy@JaARcA`G",
-		"Levels": "PCEEEGCGHAFEFJ@B?AD@B?G@B?@@C?@F@?A?CFAJC@B?C@@A?CA@G@?C?A@@?B@E@AA?C?@@@A@FA@C???@B?D@?A@FCAD?@?DGE?CA?EP",
-		"Mode": "Car/Van"
+		"EncodedPoints": "otdGmyexRrDtChAtBdBLRfEfBMfHcC",
+		"Levels": "PBCDFBP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "g|cG}nexRlFeEz@|ALrBhBnDx@ZyApBzBQ",
+		"Levels": "PFBCBDDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "ilcGeeexR\\\\_G@fEkClAIx@_DdFeCxF_HwGiEiAu@|Ag@}@uDqCgRcM_IaFuGmEhAv@yY_UsAdAiAy@o@YcAoBsB_Cm@aAl@`Ak@yBu@Qq@u@p@t@mBgA{FTgCWw@AyAXeAEcAi@c@`Aw@KAbAmAgAgBYcBh@kA{@VhAiB`@eAEQu@_Al@aCJqCA}DDoDAeLT_AfAjAm@cNbFtGhKd@h@qAx@g`@bLyGhGcHaA_EbR{AaBy@f@}@fAuFcAqLyI_FcAu_@kB",
+		"Levels": "PFDDBAGDDDBB@?CDDD@EA@BDCBFDCB@BCBHCCDCCCDDDCCBC??AECDG@GBDEFHDADECEP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "crmGmqexRa}@kOsQmFobCaCeZybAcImLql@klAoF_h@qEuIuPm\\\\t@e@s@eCaAqGm@}BWs@a@sB[mAGmAKaHGwBI}@Bw@OmJ?w@KuA[wBkA{DYo@s@sBk@mB[u@S{@c@}@g@g@eZmi@cEyHaJyb@Gu@Q_AIu@SaASyBUy@aB}KKcAOs@e@uA",
+		"Levels": "PCFJECFE?FCAA?@?D@@?A@?B?F@???@@DA?FB@??@@@?B?P",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "o`zG{jtxRdDIoCp@fBzBlBvAbAk@nClD`BbAb@sErB`ATn@",
+		"Levels": "PDEADCBEEBP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jyG{_txRnBaBb@cC",
+		"Levels": "PCP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "keyGagtxR]kB`CcApBqAvA{@`@y@a@x@qAqAwB}Dt@tAkAPHaADkBaAkBuA}@p@_AhA^vBFpBg@zBDdEoA",
+		"Levels": "PDA?BFDBDDD@DBFCBCBBP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "}qxGieuxRbAGjGuBxToBjACxRmEjMcApBoC",
+		"Levels": "PBC@CCDP",
+		"Mode": "Bus"
+	}, {
+		"EncodedPoints": "oivG}yuxReAvC^aBuFlB",
+		"Levels": "PDDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "krvGytuxRqDT{DP",
+		"Levels": "P?P",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "y}vGqsuxRaEz@s@p@oC@",
+		"Levels": "PBCP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jwGapuxRsCZm@pAoBq@aDLxANqARcBSuDRQx@{AQkA`@yAl@w@J}BnAw@f@yA@aAPmCV",
+		"Levels": "PCDCCDBBDCC?AB?CA@P",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "icyGgbuxRcBrCv@?r@vAh@x@~AhBv@pAL`AiBxAiC^Up@",
+		"Levels": "PEC@A@BECBP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jyG{_txRx@YkAGL`AyAnBm@zAs@~BOdBKeBpAFDyA`@oARwAbAaAHo@",
+		"Levels": "PCDCACAFCDA@CBP",
+		"Mode": "Foot"
 	}],
 	"day": "Tuesday"
 }, {
 	"data": [{
-		"EncodedPoints": "moxF{btxRObBfKoEd@wAtBmIwNaL{@B}@CwAOwFwAbEcBVcA`@w@d@w@bCmDf@}@|@}@tB{Bt@aAfFcGlBgCv@y@p@aAv@y@nCeDf@y@`@}@L_APaA@iEMqMMmHO}EI_KMuECkHEgAE{C?gADqAd@iFV_EGuAQmA_@iAoAmCa@cA_@gAYgASkAEmA@oALoARkA\\kAb@iA~BiEhD}F`@}@^gAhA}B`AeA\\iANkAP_D?eAGeAOmAqGo_@eAkEvArNJ`BqdLmuEu@m@q@Sq@[rI}g@~AaOvAs\\mPmPgA}@aAu@gAq@{EoCyC{AmCgB}@y@oGsH_B}Bg@eAgAqCcByE{AeF_BuEgAcCg@}@q@y@aBoAiBeAk@a@u[gNoBeAoPsHsDsAu@Su@MyBUy@wWH{a@i@iMHo[Eu@FaAdA}DN{@r@_@`A@t@WQpDWv@AyB",
-		"Levels": "PDE@GD?ABGD@B??C?A?@?@@?D@B?G@A?A@@@?D?A?E@C@?A?CA@G?A?C@B@@BDA@F?@BAJ@GAA@JDBH@D?@@AC@F@B?@?CA@G@?CA@D@B?HCBB@EA@EAAEADP",
-		"Mode": "Car/Van"
+		"EncodedPoints": "_jyG{_txRfCoAcAf@z@JiCSeBu@w@l@gAEy@[qCe@e@oBWT",
+		"Levels": "PECCBCBDACCP",
+		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "onhGiomyRxAX~B`GoB@jCbB_AtCrBCfAOtD`@t@Bz@Ct@c@v@?t@PzBe@hBt@xFl@\\p@",
-		"Levels": "PCDDDFAB@CBBABDBCP",
-		"Mode": "Bicycle"
+		"EncodedPoints": "yyyGuftxRp@fBhAKlAg@p@~BpCsA_AIpCrAXn@",
+		"Levels": "PDADDDDBP",
+		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "ejgGgxlyRvCyA{CaAo@[u@O}@DcICmHGw@G{@?cBeFt@PQkB}@NeAHH{@\\u@Yq@Os@^m@h@c@yDbB",
-		"Levels": "PE@@D@A@?FCCD?EAC@C@EP",
-		"Mode": "Bicycle"
+		"EncodedPoints": "q_zGqitxRhDz[|D~UfOxZ`Rf[jErJ",
+		"Levels": "PBFBBP",
+		"Mode": "LRT/MRT"
 	}, {
-		"EncodedPoints": "ejgGgxlyRvCyA{CaAo@[u@O}@DcICmHGw@G{@?cBeFt@PQkB}@NeAHH{@\\u@Yq@Os@^m@h@c@yDbB",
-		"Levels": "PE@@D@A@?FCCD?EAC@C@EP",
-		"Mode": "Bicycle"
+		"EncodedPoints": "oncG{gexRlDKx@s@{RvTu_@qUgFeFof@iYsDmE_IoCwDa@iyEhg@eFBoi@yNiQEqHsIeJPcc@eHic@xCwH^sHlAu@FaVoG{EBiBsBk@u@c@w@[y@iAyEYqCGaAYgAEqAI}@McAEcAcBiNOcAi@gC}AyFy@_Ca@y@}CeFs@y@",
+		"Levels": "PCEGCCCEBHHDDEEDGAC@ICD?G@AC?AA???BA?E@C?AP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "kzyGyftxRjO|E",
+		"Levels": "PP",
+		"Mode": "Foot"
 	}],
 	"day": "Wednesday"
 }, {
 	"data": [{
-		"EncodedPoints": "iphGinmyR`E|FlApF`PUbE\\hIvAeAb@fCe@}DrB",
-		"Levels": "PCFDADCEP",
-		"Mode": "Bicycle"
+		"EncodedPoints": "_jyG{_txRC}@{@C}@[qBlAeE_B",
+		"Levels": "PCACDP",
+		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "ulgGaklyRzCAzBe@|BiA",
-		"Levels": "PCAP",
-		"Mode": "Bicycle"
+		"EncodedPoints": "uwyGkctxRcBeCwC_A",
+		"Levels": "PCP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "q_zGqitxRhDz[|D~UfOxZ`Rf[jErJ",
+		"Levels": "PBFBBP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "sjxG_rpxRpQbkAhSvg@|ClEdGhi@ArA`D|C~f@ldAvRx}@dPvS`p@qBt`@KrRj@`c@xG|G`B~v@dN`H`At`@IjLjBpToAn@]voAkk@ng@wCx@n@pV~IfEv@~ZbVfUtMdN~Kl\\\\m@hViCmPGv@hHtBqAeEiDa@i@_CsC",
+		"Levels": "PFCEBFCFEJDBFBBAEDHE?FHBBECCGCGFFEB?P",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "ircGelexRCsCyHz@",
+		"Levels": "PEP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "g|cG}nexRdHuBB|AX|AzCnE",
+		"Levels": "PEACP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "gmcGgfexRu@kAkBoBEgAKaBFyBsG|JvAcHr@c@kDrC",
+		"Levels": "PAD?AFECEP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "g|cG}nexRdARb@aBj@iA~AMv@v@DdAA|Ar@hAl@f@l@lAQhAcA`@oAjAlBxBdAKgDdBnBYnETaGt@i@x@_AbC",
+		"Levels": "PDADCF?CAAECAECEFBFDAP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "ktcGksdxRsCl@`FyA[mA@y@[}BrAYgBdBlB{FdAxA_A_Az@_CJaAqByB[mACmCy@cA_B\\\\`@m@y@nA@~CyBm@",
+		"Levels": "PEEAADEDDDDAFCACFCCDDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "g|cG}nexRlCiCxAi@`A`ALbBIt@tD|E_Ab@lCfDa@}D",
+		"Levels": "PBFCACDCEP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "wkcGifexRwAXkfHuGcXaAcB]yl@qCk]aLaPmGeTmE}r@hByp@a@m`@ylA",
+		"Levels": "PBFABFBDFDIP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "wkuGg}hxRkl@knA{Byc@yB_DcEyEoJc^yMqm@iJ{g@wJgX{_@adA_AqS",
+		"Levels": "PFFADEBE@EP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "e{yGuftxRzIdAgAdAxBy@jBdBs@`@~A?",
+		"Levels": "PDDDCDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jyG{_txRxAe@oBd@bArByBhAcAhA{BjEzBmD",
+		"Levels": "PDDDACEP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "onyGuvsxRzAqCxBKsBiCl@@",
+		"Levels": "PCDCP",
+		"Mode": "Foot"
 	}],
 	"day": "Thursday"
 }, {
 	"data": [{
-		"EncodedPoints": "iphGinmyRzhAkF~CkB|E_EfASfFuEn@i@pAw@",
-		"Levels": "PFABBA@P",
-		"Mode": "Bicycle"
-	}, {
-		"EncodedPoints": "}leGminyRrHeG~RqKpNg@lAGvCFbAHbAJzEx@~@`@dAZx@f@bAd@~@l@dB|AbBjBj@x@fArBv@~Ab@jAt@bBtAtCj@~@v@hBdAtC`A~Cn@fBXhAVv@d@fBbA^IrDj@l@l@xMvGbRIx@VbCAbABt@TbCt@jMJrBHhCLdAJ`BNx@DbAd@`IP|BLt@WrAvCv_@NdAXr@`BzFpAbFd@nBh@lB~AhFuAmEjDhLo@fMu@~AFpA@|@b@fEVlBBbAjDzSj@n\\DjAJx@DdAPnBZtPbEt]lAfEN`AAhAJz@Lt@q@u@`BtFlBpb@PfAFt@`@fBXlCb@fBj@zDy@`AhFl]`O~`@|@\\xA`BVr@fBrA",
-		"Levels": "PCF?D?B@H@A??CA@E@??@@?C??@??CIBCDEA@?A@@?B?@A?A@CBEA@@?A?E?FCB?E?@BDA???ADBBAA?DCDC?@@@@DGEDBABP",
-		"Mode": "LRT/MRT"
-	}, {
-		"EncodedPoints": "sa~F{evxRfB}D~@Sm@}DvCVaCZbC{@kM~KkAFbAcFcE}L`JLiHUpAe@",
-		"Levels": "PCDDECFCGDFEDP",
+		"EncodedPoints": "_jyG{_txR??",
+		"Levels": "PP",
 		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "mjxFqbtxRwD_@fB\\yCeA",
-		"Levels": "PBDP",
-		"Mode": "Bus"
+		"EncodedPoints": "_jyG{_txRJu@uDBwAr@iBYyA}A[q@s@{BcCS",
+		"Levels": "PCCCEB@DP",
+		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "wqxFydtxROs@kEzA~BGr@]zBrFnBaAjBmAl@g@lAsAj@}@~BcMLoC[w@uBUeHeAiCUu@Gs@ZQv@eAnJ]|Bc@rBq@vB_@z@eFrJi@z@oA~BsA~B}BnEiApC_@hAw@|CUnAa@fDWnDY~JAnAStIUfISlFKfIWbESjAWdAY|@aArBeAnBoAvBuAtBcD~Fg@~@aChFsAfC_BdCyCzDeB`CgD~FmA~Bi@z@sDdHyA|BaBzBy@x@qFzEaAp@_EfDuDfDw@z@q@|@m@`AcCzEyBfF[~@c@x@cAxB}BbEg@fAwBbE{CpG{BlEyDlIa@~@wB`G]v@qAvDwCtFqBnCsBxCuArAkCnB{CtBw@^cBjAm@ZaAp@uArAk@d@kDjDkAtA}BdCwAbBc@~@C`ADhAE|@e@n@{@R}@KcGaAy@Qy@K{@SuAoAgCgBg@i@aBcAkBy@uBw@sB_A}@MaAIq@a@s@OcDcAqB]}@K}@E{BEyAAkHFwJRw@Jy@D{GF}BAaACiCMiE_@iACgAJaAb@u@x@{BrEmC|EoClFoEtJ_AtBaCxEc@bA_@fAg@fA]dAk@dAk@jA_@dAs@`AoAbCe@fAg@~@c@dAqBdEc@dAe@|@}BbFkJjR_AzBgBdDy@pBc@jAm@jBc@rBWvBS~BCz@C|B?pBOdESfAm@bCYr@i@l@Sx@Hy@i@d@aA?u@UgDcBy@WeAWcAGcA@iANs@NsEpAw@HuEr@gAZu@ZeHnBoDTuBE_BO}@S}@SsAg@w@c@s@g@wCaCmD_EuB{AuAwAo@c@o@k@uByAwAoAqCuBuCqBaBoAeE{CwAmAc@g@m@_@g@c@_GwG{D}EyEuFuFwFmIcJu@o@_CyAcAc@cA]gAWcC]aCs@gDmBi@a@y@Kc@v@[v@y@fCQv@Up@y@xBg@pByDlJq@Rw@Iy@]y@Wq@]i@b@U`Au@fBs@jBu@JmCeAg@nC",
-		"Levels": "PCEBEE@B?FBCBG@@CBG@?B@E@@??@C@A?F@B??@?@CB@?G?A?@A?@C@?C??@@E@B@@@B?@EA@A??@?A??C??@CB?I@B@@??C?@E??DB@@CBH?@??D@@B@D?B?BA?B?F?A?BA?AC?A@@CAIA@?C?@A??@A?@B@A??????@@@@F?B@D?A?@D?B@AJCBD@B?AE@B?B?C??EAC@A@H?ABAAB?@@?@??A?@?D@?B@@E@C?A@C@HCC?@?@@BFBC?@EBA?DBDP",
-		"Mode": "Car/Van"
+		"EncodedPoints": "y~yGsitxRB|@k@d@Rx@lA`HnA`J~@fFHrA\\\\fATlAR|@PnAL~B\\\\vDZbARdAVv@l@|@|@pBn@x@f@|@tAzAhJ~IbBnBp@dAd@x@`BbE\\\\dAVdA|A|Dr@vB`@z@x@`CPx@Zv@jA`HlAlBZ~@f@~@t@hDTvCL`F?hAX|NNrELbARfAZ`An@hCp@~Bh@bCf@fANr@hAlD\\\\|@lRd^dCpFbD~d@WtCdh@n`AlCfEn@XhCxGjIhd@Vr@H`A\\\\nCH`Az@fFVbA\\\\bAd@fAfCpDt@p@rBvA`Af@`Bl@~@VdARfAPdAHlCDhAClAIhJ_AvE[fAE`Iw@bAM`Fc@lC[~@OxCYdAInCGhCHfAHjAJfCZxEv@nE~@`S`D~@XxBZr@PdCb@t@Lv@@f@C",
+		"Levels": "PBC?A@AA@?B@?B?F@@A@C@BA?E@?A??@C@ACA@FAC@?A@E@??@B@@?DAFCFCBCFAB??AC?@IB@D@?B?@FA?CA?A??@??B@F?A?C@@@@@?BA?P",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "_zoGydfxRrq@dQ~SFth@xFvd@uGn@q@`V}Yz@_Av@o@`BgBfBcBv@c@zB}@bAW`AM|@MpAI~FEpABzEK~BLbGHnEa@~YO`c@tLl|Avp@zGiCqFtB}F}GbD@eH_D",
+		"Levels": "PEDHF??D@?C@G?@?C@@B@BBHDEGEEDP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "g|cG}nexRc@pC_@uDBbDr@qAf@mClCqA{@CpBOtAnBs@r@p@tAjCzD_@z@fBjAiBq@\\\\_BkBuD",
+		"Levels": "PEEEBDCCFCC@CCFDCP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "wqcGmmexRwA_G_AvAcBSbA`EkAyCkAbB",
+		"Levels": "PECEEDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "g|cG}nexRmKf@",
+		"Levels": "PP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "gudG}wexRvCq@?w@zBEdCJpE}@w@mA|BoCOfD~@o@AuA",
+		"Levels": "PCCACDDEDCP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "g~cG{bfxRI|@vHfD}@aEtApCc@aBIsBb@bF",
+		"Levels": "PCFCEAEP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "ktcGw|exRmAfCeAdAwE{BfFnCFlAIrCC}@}ArCtGx@",
+		"Levels": "PAEFEADCEP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "}rcGcjexRrJxB~B_B{Ef@{c@bIyL}Ler@}d@sq@yM_JjAkYL{OlBwsA|k@}d@{AubHuqDGy@_^ouA{EqUuCai@iHoGnDyAiAqDoB_G_AYb@~@cBoLu[_d@{@}@sAyBa@w@g@aA_@aAYaARsAGmASeAAkAgC}Oa@mBOeAmAkIK{@CcAi@}Be@}D",
+		"Levels": "PDFBGDFHCCFFIJABEEEF?CDDEAC?@?FBB@AC??AA?AAP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "s`zGgltxR`AhAzAm@a@jAlA^r@fCpAG|AcAPpAxBSfCtAPr@",
+		"Levels": "PCDCCDBDCDBP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jyG{_txRfBe@x@hEsDcA]hB{BjE",
+		"Levels": "PDEEBP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "koyGessxRHqCrA}@n@_CTnALwBE]",
+		"Levels": "PCCDCAP",
+		"Mode": "Foot"
 	}],
 	"day": "Friday"
 }, {
 	"data": [{
-		"EncodedPoints": "iphGinmyR`E|FlApF`PUbE\\hIvAeAb@fCe@}DrB",
-		"Levels": "PCFDADCEP",
-		"Mode": "Bicycle"
+		"EncodedPoints": "_jyG{_txRbBEcBD",
+		"Levels": "PDP",
+		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "ulgGaklyRzCAzBe@|BiA",
-		"Levels": "PCAP",
-		"Mode": "Bicycle"
+		"EncodedPoints": "_jyG{_txRwD_BwAt@sBcA}AEc@w@qBmCbA[oCX",
+		"Levels": "PCCBD@DDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "c`zGwitxRbCz@zAta@r]`t@~G`LrKp`@ll@jrBxc@nbB`InKf@fAvIrY@z@H|@ZzBVxBNt@t@jHN~@HbAh@~DT~@f@|A^~@`@x@j@r@f@t@j@p@p@n@`DjBx@\\\\pB`Ax@RzB\\\\~@Bz@F~@A~Ea@rLuA~D_@dC]xBUx@OhDUjEc@pCOx@Kx@EvDKjCFfANnCXnC`@xI|Apb@`IjCN~@RhA`@vBbAj@`@pLzGr@ZfBr@v@Tx@TlB^v@JtBNtB@jVi@rBc@",
+		"Levels": "PDECFACEADE?A??@???D?@B@?J?B@?D?A?F@A???@A@C??BAF??B?BAE@B@?C?A?F?ACBP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "ehcGueexR{@Z{@bAeA_AMmBA_A\\\\z@iCaBSaE_BiBiBoD",
+		"Levels": "PADE@CDDCAP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "}xcGezexRhElJx@lG",
+		"Levels": "PCP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "ypcGifexR_RfNcJ{HwJgH{FuEmpBml@ijDxm@}i@wM{U{CrAZan@}LudA`Fob@oRsHio@wGqQMy@uBL~A[mC_CeEwDq_@{_@[oAd@}AQeA[mDe@sAS{A@yAI{@A{EBaB",
+		"Levels": "PGA@FHHCDCGIGDAFDD?BFCC@AAC@@?P",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "qxvGqmkxRkGoh@}OeLWqVjKsEgYoX}Ksv@?y@cMy[a[qo@uGga@D_E",
+		"Levels": "PFGFGFAECFCP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "c`zG_ktxR|@nAlAOn@vAx@tAlCXnB}Ab@l@jDjC",
+		"Levels": "PCC@DCEAP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jyG{_txRhD@gDn@d@e@cBjC?z@wAfAcAtAiAhBdCZ",
+		"Levels": "PECDBCB?EP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "{nyGcpsxRyAc@tBkFfAo@k@_AbAQhA@i@gB",
+		"Levels": "PDCDDADP",
+		"Mode": "Foot"
 	}],
 	"day": "Saturday"
 }, {
 	"data": [{
-		"EncodedPoints": "iphGinmyRzhAkF~CkB|E_EfASfFuEn@i@pAw@",
-		"Levels": "PFABBA@P",
-		"Mode": "Bicycle"
-	}, {
-		"EncodedPoints": "}leGminyRrHeG~RqKpNg@lAGvCFbAHbAJzEx@~@`@dAZx@f@bAd@~@l@dB|AbBjBj@x@fArBv@~Ab@jAt@bBtAtCj@~@v@hBdAtC`A~Cn@fBXhAVv@d@fBbA^IrDj@l@l@xMvGbRIx@VbCAbABt@TbCt@jMJrBHhCLdAJ`BNx@DbAd@`IP|BLt@WrAvCv_@NdAXr@`BzFpAbFd@nBh@lB~AhFuAmEjDhLo@fMu@~AFpA@|@b@fEVlBBbAjDzSj@n\\DjAJx@DdAPnBZtPbEt]lAfEN`AAhAJz@Lt@q@u@`BtFlBpb@PfAFt@`@fBXlCb@fBj@zDy@`AhFl]`O~`@|@\\xA`BVr@fBrA",
-		"Levels": "PCF?D?B@H@A??CA@E@??@@?C??@??CIBCDEA@?A@@?B?@A?A@CBEA@@?A?E?FCB?E?@BDA???ADBBAA?DCDC?@@@@DGEDBABP",
-		"Mode": "LRT/MRT"
-	}, {
-		"EncodedPoints": "sa~F{evxRfB}D~@Sm@}DvCVaCZbC{@kM~KkAFbAcFcE}L`JLiHUpAe@",
-		"Levels": "PCDDECFCGDFEDP",
+		"EncodedPoints": "_jyG{_txRRzDS{D",
+		"Levels": "PEP",
 		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "mjxFqbtxRwD_@fB\\yCeA",
-		"Levels": "PBDP",
-		"Mode": "Bus"
+		"EncodedPoints": "_jyG{_txRgB\\\\bArBR{AIfBsBpC{Av@OlBd@J",
+		"Levels": "PDDCDBDCP",
+		"Mode": "Foot"
 	}, {
-		"EncodedPoints": "wqxFydtxROs@kEzA~BGr@]zBrFnBaAjBmAl@g@lAsAj@}@~BcMLoC[w@uBUeHeAiCUu@Gs@ZQv@eAnJ]|Bc@rBq@vB_@z@eFrJi@z@oA~BsA~B}BnEiApC_@hAw@|CUnAa@fDWnDY~JAnAStIUfISlFKfIWbESjAWdAY|@aArBeAnBoAvBuAtBcD~Fg@~@aChFsAfC_BdCyCzDeB`CgD~FmA~Bi@z@sDdHyA|BaBzBy@x@qFzEaAp@_EfDuDfDw@z@q@|@m@`AcCzEyBfF[~@c@x@cAxB}BbEg@fAwBbE{CpG{BlEyDlIa@~@wB`G]v@qAvDwCtFqBnCsBxCuArAkCnB{CtBw@^cBjAm@ZaAp@uArAk@d@kDjDkAtA}BdCwAbBc@~@C`ADhAE|@e@n@{@R}@KcGaAy@Qy@K{@SuAoAgCgBg@i@aBcAkBy@uBw@sB_A}@MaAIq@a@s@OcDcAqB]}@K}@E{BEyAAkHFwJRw@Jy@D{GF}BAaACiCMiE_@iACgAJaAb@u@x@{BrEmC|EoClFoEtJ_AtBaCxEc@bA_@fAg@fA]dAk@dAk@jA_@dAs@`AoAbCe@fAg@~@c@dAqBdEc@dAe@|@}BbFkJjR_AzBgBdDy@pBc@jAm@jBc@rBWvBS~BCz@C|B?pBOdESfAm@bCYr@i@l@Sx@Hy@i@d@aA?u@UgDcBy@WeAWcAGcA@iANs@NsEpAw@HuEr@gAZu@ZeHnBoDTuBE_BO}@S}@SsAg@w@c@s@g@wCaCmD_EuB{AuAwAo@c@o@k@uByAwAoAqCuBuCqBaBoAeE{CwAmAc@g@m@_@g@c@_GwG{D}EyEuFuFwFmIcJu@o@_CyAcAc@cA]gAWcC]aCs@gDmBi@a@y@Kc@v@[v@y@fCQv@Up@y@xBg@pByDlJq@Rw@Iy@]y@Wq@]i@b@U`Au@fBs@jBu@JmCeAg@nC",
-		"Levels": "PCEBEE@B?FBCBG@@CBG@?B@E@@??@C@A?F@B??@?@CB@?G?A?@A?@C@?C??@@E@B@@@B?@EA@A??@?A??C??@CB?I@B@@??C?@E??DB@@CBH?@??D@@B@D?B?BA?B?F?A?BA?AC?A@@CAIA@?C?@A??@A?@B@A??????@@@@F?B@D?A?@D?B@AJCBD@B?AE@B?B?C??EAC@A@H?ABAAB?@@?@??A?@?D@?B@@E@C?A@C@HCC?@?@@BFBC?@EBA?DBDP",
-		"Mode": "Car/Van"
+		"EncodedPoints": "syyGirsxRtAe@vEPH}AjAkAf@aB`@gCd@I",
+		"Levels": "PBEBBABP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jyG{_txRYw@}A}@cAl@iB}AwCl@aAeB",
+		"Levels": "PBCCDDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_zyGyftxRRjB",
+		"Levels": "PP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "kyyGmctxRjDg@M`ClIV",
+		"Levels": "PDDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jyG{_txRyFk@_BkCKt@cBCi@qB",
+		"Levels": "PDDCDP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "syyGsgtxRhBdBg@~AhDHbAKnDGRz@",
+		"Levels": "PDEA@CP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "_jyG{_txR}NsE",
+		"Levels": "PP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "}yyGoftxRwE{@NyALe]hp@ec@lk@eWfUaCbFZp`@p@`d@tHlC@",
+		"Levels": "PEAGDHDAEBP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "qysGs}vxRrDdBnBtA~ANyAa@rGtDxBd@x@T~@v@tCbAvAvF",
+		"Levels": "PABBDB?BBEP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "qxrGcevxRw@yBCeB",
+		"Levels": "PBP",
+		"Mode": "Foot"
+	}, {
+		"EncodedPoints": "mzrGclvxRsDeDuHgClBJw@B{H}BiDiAjBn@nA|@iAg@cDcB",
+		"Levels": "PCDDB?EAC?P",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "yxsGg|vxRkImEq_@oB{Gk@mVZs@mA_f@bDwGjFiYtM}EUeKCqBRkA`@w@\\\\kBh@a@v@IpAf@tCq@\\\\VnA@fAo@`AcAx@oCjCgA\\\\i@`AWr@s@z@g@r@cAhBy@lBUr@a@nBSzB@vCN~@v@tBRz@bDhG",
+		"Levels": "PEADDGFCEACAH@BEBBCADA@BD?A?AC?AFBAD@BP",
+		"Mode": "LRT/MRT"
+	}, {
+		"EncodedPoints": "k|yGkgtxR|CnBXv@`AVnAs@~@@~@G`ChB",
+		"Levels": "PBDBB@DP",
+		"Mode": "Foot"
 	}],
 	"day": "Sunday"
 }]
